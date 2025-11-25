@@ -1,0 +1,6 @@
+setup.py
+temp_stats.c
+TemperatureStatistics.egg-info/PKG-INFO
+TemperatureStatistics.egg-info/SOURCES.txt
+TemperatureStatistics.egg-info/dependency_links.txt
+TemperatureStatistics.egg-info/top_level.txt
