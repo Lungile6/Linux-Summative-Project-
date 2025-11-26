@@ -1,6 +1,6 @@
 # Linux Summative Project
 
-This repository contains solutions and analysis for three different questions related to Linux system programming, assembly, and Python C extensions.
+This repository contains solutions and analysis for five different questions related to Linux system programming, assembly, and Python C extensions.
 
 ## Question 1: Reverse Engineering a C Program
 
@@ -149,3 +149,4 @@ This question implements a multi-client TCP server and a corresponding client in
 
 ### Key Findings
 This project showcases robust network programming techniques including socket creation, binding, listening, and accepting connections. It effectively uses multi-threading with `pthread` to handle concurrent client connections, preventing blocking operations. Synchronization is handled using mutexes for shared resources (like the list of active clients). The message-passing mechanism between client and server, defined in `common.h`, demonstrates a clear protocol for communication, including authentication, question delivery, answer submission, and feedback.
+
