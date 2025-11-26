@@ -4,3 +4,5 @@ Sensor Reading 3
 Sensor Reading 4
 
 Sensor Reading 6
+Sensor Reading 7
+Sensor Reading 8
